@@ -17,4 +17,4 @@ total_sales = float(input('Enter the Projected Sales: '))
 
 profit = total_sales * 0.23
 
-print('The profit is $', (profit, ',.2f'))
+print ('The profit is $', (profit, ',.2f'))
