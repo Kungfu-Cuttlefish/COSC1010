@@ -1,6 +1,6 @@
 #
-# Name
-# Date
+# Syrus Freeman
+# 2/9/2025
 # Areas of Rectangles Programming Project
 # COSC 1010
 #
@@ -35,4 +35,3 @@ elif area2 > area1:
     print ('Rectangle 2 has the greater area.')
 else:
     print ('Both have the same area.')
-    
