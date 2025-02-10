@@ -26,7 +26,7 @@ width2 = int(input('Enter the width of rectangle 2'))
 area1 = length1 * width1
 
 # Calculate area B
-area2 = lenght2 * width2
+area2 = length2 * width2
 
 # Print area comparison using if-elif-else statements
 if area1 > area2:
