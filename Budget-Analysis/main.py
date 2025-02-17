@@ -27,3 +27,5 @@ if total > budget :
 if total < budget :
     amount_left = budget - total
     print ('You are under budget by', amount_left)
+if total == budget :
+    print ('You are on budget')
