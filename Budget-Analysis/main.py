@@ -22,8 +22,8 @@ for day in range (1, 31) :
 # Went for a 30 day month
 
 if total > budget :
-    total - budget = amount_over
+    amount_over = total - budget
     print ('You are over budget by', amount_over,)
 if total < budget :
-    budget - total = amount_left
+    amount_left = budget - total
     print ('You are under budget by', amount_left)
