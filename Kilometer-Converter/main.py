@@ -22,3 +22,4 @@ def show_miles (km) :
     print (km, 'kilometers equals', miles, 'miles.')
 
 main ()
+# Couldn't figure out how to get rid of trailing 9s on any number >1 (10 gives an answer of 6.213999)
