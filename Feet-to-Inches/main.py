@@ -7,9 +7,9 @@
 # Use comments liberally throughout the program.
 INCHES_PER_FOOT = 12
 def main () :
-
+    # Number from user
     feet = int (input ('Enter a number of feet: '))
-
+    # Conversion
     print (feet, 'equals', feet_to_inches(feet), 'inches.')
 
 def feet_to_inches (feet) : 
